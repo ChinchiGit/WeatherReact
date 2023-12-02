@@ -4,7 +4,7 @@ import "./Footer.css"
 const Footer = () => {
   return(
   <footer>
-    Footer
+    <h4>Powered by <a target="_blank" href="https://openweathermap.org/">OPEN WEATHER</a></h4>
   </footer>
   )
 };
