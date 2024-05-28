@@ -1,11 +1,9 @@
 # WeatherReact: Aplicación de Pronóstico del Tiempo
 
-Bienvenido a WeatherReact, una aplicación de pronóstico del tiempo basada en React que proporciona información meteorológica actualizada para Madrid. Este proyecto demuestra el uso de tecnologías web modernas y hooks de React para crear una experiencia de usuario interactiva y receptiva.
-
-![WeatherReact](https://weatherappreactmadrid.netlify.app/screenshot.png)
+Bienvenido a WeatherReact, una aplicación de pronóstico del tiempo basada en React que proporciona información meteorológica actualizada. Este proyecto demuestra el uso de tecnologías web modernas y hooks de React para crear una experiencia de usuario interactiva y receptiva.
 
 ## Demo en Vivo
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://weatherappreactmadrid.netlify.app/)
+[WeatherReact Live](https://weatherappreactmadrid.netlify.app/)
 
 ## Características
 - 🌍 Datos meteorológicos en tiempo real para cualquier ciudad del mundo
