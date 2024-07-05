@@ -1,12 +1,11 @@
 import React from "react";
 import "./Footer.css"
 
-const Footer = () => {
-  return(
+
+const Footer = () => (
   <footer>
-    <h4>Powered by <a target="_blank" href="https://openweathermap.org/">OPEN WEATHER</a></h4>
+    <p>Powered by <a href="#" onClick={() => window.open("https://openweathermap.org/", "_blank")}>OPEN WEATHER</a></p>
   </footer>
-  )
-};
+);
 
 export default Footer;
